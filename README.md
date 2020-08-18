@@ -51,6 +51,9 @@ I have written for many websites, but you can find all my writing on my blog at 
 <a href="https://github.com/swimlane/pyattck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swimlane&repo=pyattck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/swimlane/soc-faker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swimlane&repo=soc-faker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
+</a>
 <a href="https://github.com/swimlane/trawl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swimlane&repo=trawl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 </a>
