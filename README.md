@@ -4,7 +4,7 @@
 
 [![Twitter][1.2]][1] [![LinkedIn][3.2]][3] [![GitHub][2.2]][2]
 
-My name is Josh Rickard and I am a creator and automator of things.  I'm an expirenced IT & DFIR (Digital Forensics & Incident Response) professional.
+My name is Josh Rickard and I am a creator and automator of things.  I'm an experienced IT & DFIR (Digital Forensics & Incident Response) professional.
 
 I like long walks through binary trees, `Python` & `PowerShell` riding, writing romantic experiences about code, git prune all branches, and deep sea `phishing`.
 
