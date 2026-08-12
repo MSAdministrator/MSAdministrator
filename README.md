@@ -9,6 +9,8 @@
   <a href="https://letsautomate.it" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MSAdministrator&color=2bbc8a&style=flat-square)
+
 Just like information security, I am socio-technical: I build tools and systems that solve real problems, automate unnecessary toil, and help people make better security decisions.
 
 I am a threat research and detection engineer with 14+ years of experience across security operations, DFIR, security architecture, product leadership, and software engineering. I have built open-source tools, led products used by more than 18 million people, and helped design and operate Go and Python services that process billions of security events daily.
@@ -39,14 +41,9 @@ I research threats and build detections, tooling, and frameworks to improve phis
 
 ## Background
 
-- Detection Engineer 2 — Sublime Security (2025–2026)
-- Senior Software Engineer, Threat Detection — AppOmni (2023–2025)
-- Senior Detection Validation Engineer — Red Canary (2022–2023)
-- Senior Security Solutions Architect — Swimlane (2018–2022)
-- Manager, Reporter Solutions Engineering — Cofense (2015–2018)
-- Security Analyst — Specialist — University of Missouri (2012–2015)
+14+ years across Sublime Security, AppOmni, Red Canary, Swimlane, Cofense, and the University of Missouri — spanning security operations, DFIR, detection engineering, security architecture, product leadership, and software engineering. Earlier work included Windows infrastructure, Active Directory, Group Policy, PowerShell, vulnerability management, and incident response.
 
-Earlier in my career I worked extensively with Windows and enterprise infrastructure, including Active Directory, Group Policy, PowerShell, endpoint management, server administration, vulnerability management, digital forensics, incident response, and security operations. That background still shapes how I approach security engineering: understand the system first, understand how it can fail, build mechanisms that can be tested, and continuously improve them.
+Full history: [letsautomate.it/page/about](https://letsautomate.it/page/about/)
 
 ## Open Source
 
@@ -64,13 +61,10 @@ I have built and contributed to open-source projects used across the security en
 
 I write about security engineering, detection, automation, software systems, defensive research, and the social and technical implications of AI at [letsautomate.it](https://letsautomate.it).
 
-### Selected Writing
+### Latest Posts
 
-- [How I Use AI Tools for Security Work](https://letsautomate.it/article/how-i-use-ai-tools-for-security-work/)
-- [How I Use LLMs for Security Work](https://letsautomate.it/article/how-i-use-llms-for-security-work/)
-- [How I Use LLMs for Security Work, Part 2](https://letsautomate.it/article/how-i-use-llms-for-security-work-part-2/)
-- [Beyond the Prompt: Social Costs of Generative AI](https://letsautomate.it/article/beyond-the-prompt-social-costs-of-generative-ai/)
-- [Why Phishing Defense Needs Software Engineers](https://letsautomate.it/article/why-phishing-defense-needs-software-engineers/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Publication
 
@@ -107,4 +101,8 @@ Full list: [letsautomate.it/page/presentations](https://letsautomate.it/page/pre
 </a>
 <a href="https://github.com/MSAdministrator/MSAdministrator">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MSAdministrator&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MSAdministrator GitHub Stats" />
+</a>
+
+<a href="https://github.com/MSAdministrator/MSAdministrator">
+  <img align="center" src="https://streak-stats.demolab.com?user=MSAdministrator&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a&sideLabels=c9cacc&dates=c9cacc&stroke=c9cacc&border=c9cacc" alt="MSAdministrator GitHub Streak" />
 </a>
