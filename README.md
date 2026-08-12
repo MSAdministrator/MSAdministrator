@@ -64,6 +64,11 @@ I write about security engineering, detection, automation, software systems, def
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Thoughts About the United States Banning TikTok](https://letsautomate.it/article/thoughts-about-tiktok-ban/)
+- [Understanding Python - Part 2: Running Code](https://letsautomate.it/article/understanding-python-part-2-running-code/)
+- [Understanding HTTP Request Headers](https://letsautomate.it/article/understanding-http-request-headers/)
+- [Introducing Atomic Operator](https://letsautomate.it/article/introducing-atomic-operator/)
+- [Atomic Red Team Testing With Swimlane](https://letsautomate.it/article/atomic-red-team-testing-with-swimlane/atomic-red-team-testing-with-swimlane/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Publication
