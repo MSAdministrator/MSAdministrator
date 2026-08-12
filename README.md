@@ -64,11 +64,11 @@ I write about security engineering, detection, automation, software systems, def
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Prompt: The Social Costs of Generative Artificial Intelligence](https://letsautomate.it/article/beyond-the-prompt-social-costs-of-generative-ai/)
+- [The Agentic Web: A New Internet Built for Agents, Not Browsers](https://letsautomate.it/article/agentic-web/)
+- [How I Use LLMs for Security Work: Part 2](https://letsautomate.it/article/how-i-use-llms-for-security-work-part-2/)
+- [How I Use LLMs for Security Work](https://letsautomate.it/article/how-i-use-llms-for-security-work/)
 - [My Thoughts About the United States Banning TikTok](https://letsautomate.it/article/thoughts-about-tiktok-ban/)
-- [Understanding Python - Part 2: Running Code](https://letsautomate.it/article/understanding-python-part-2-running-code/)
-- [Understanding HTTP Request Headers](https://letsautomate.it/article/understanding-http-request-headers/)
-- [Introducing Atomic Operator](https://letsautomate.it/article/introducing-atomic-operator/)
-- [Atomic Red Team Testing With Swimlane](https://letsautomate.it/article/atomic-red-team-testing-with-swimlane/atomic-red-team-testing-with-swimlane/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Publication
