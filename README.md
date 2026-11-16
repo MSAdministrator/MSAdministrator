@@ -64,11 +64,11 @@ I write about security engineering, detection, automation, software systems, def
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Prompt: Infrastructure Costs of Scraping](https://letsautomate.it/article/beyond-the-prompt-infrastructure-costs-of-scraping/)
 - [Why Phishing Defense Needs Software Engineers](https://letsautomate.it/article/why-phishing-defense-needs-software-engineers/)
 - [Open Season: Domain Profiling](https://letsautomate.it/article/open-season-domain-profiling/)
 - [Detecting Phishing with Microsoft Email Headers](https://letsautomate.it/article/detecting-phishing-with-microsoft-email-headers/)
 - [Open Season: CZDS](https://letsautomate.it/article/open-season-czds/)
-- [Beyond the Prompt: The Social Costs of Generative Artificial Intelligence](https://letsautomate.it/article/beyond-the-prompt-social-costs-of-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Publication
